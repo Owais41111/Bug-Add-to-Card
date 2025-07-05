@@ -1,7 +1,3 @@
-Certainly, here's a well-structured README for your GitHub project, *Bug Add to Cart*:
-
----
-
 # Bug Add to Cart 🐞🛒
 
 **Bug Add to Cart** is a simple and interactive web-based project created using **HTML** and **CSS**. The project mimics an online shopping cart where you can "add" bugs (visual representations) into a virtual cart and see the details, including price and classification.
@@ -38,7 +34,7 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ejaz-ahmed/bug-add-to-cart.git
+   git clone https://github.com/Owais41111/Bug-Add-to-Card
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -59,7 +55,7 @@ To run this project locally:
 
 ## 👀 Preview
 
-![Bug Add to Cart Preview](https://your-image-link.com)
+![Bug Add to Cart Preview](https://github.com/user-attachments/assets/7bf8b524-efd9-412e-a8e9-491d7299c5ce)
 
 ---
 
@@ -87,5 +83,5 @@ Feel free to fork this repository, create issues, and submit pull requests. Cont
 ---
 
 ### Contact
-**Creator**: [Ejaz Ahmed](https://github.com/ejaz-ahmed)
+**Creator**: [Ejaz Ahmed](https://github.com/Owais41111)
 
